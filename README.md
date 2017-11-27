@@ -15,8 +15,8 @@ En este trabajo se realizoun sketch teniendo en cuenta:
 
 A continuacion las imagenes  de los sketch realizados:
 
-![login](assets\images\24099027_1508879439178742_1446618071_n.jpg)
+![login](assets/images/24099027_1508879439178742_1446618071_n.jpg)
 
-![general](assets\images\24135329_1508879392512080_972730955_n.jpg)
+![general](assets/images/24135329_1508879392512080_972730955_n.jpg)
 
-![sede](assets\images\24135514_1508879295845423_493581434_n.jpg)
+![sede](assets/images/24135514_1508879295845423_493581434_n.jpg)
